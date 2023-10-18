@@ -1,0 +1,24 @@
+{
+  "name": "github_discord_bot",
+  "version": "0.0.1",
+  "description": "A Discord bot linked to a github repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyph1sh/github_discord_bot.git"
+  },
+  "keywords": [
+    "github",
+    "discord",
+    "bot"
+  ],
+  "author": "JellyPh1sh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellyph1sh/github_discord_bot/issues"
+  },
+  "homepage": "https://github.com/jellyph1sh/github_discord_bot#readme"
+}
