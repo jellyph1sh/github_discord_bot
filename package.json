@@ -4,7 +4,7 @@
   "description": "A Discord bot linked to a github repository.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/jellyph1sh/github_discord_bot/issues"
   },
-  "homepage": "https://github.com/jellyph1sh/github_discord_bot#readme"
+  "homepage": "https://github.com/jellyph1sh/github_discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "octokit": "^3.1.1"
+  },
+  "type": "module"
 }
